@@ -1,0 +1,5 @@
+{
+  "name": "ChromaRhythm",
+  "description": "A high-reflex rhythm game where you match colors to the beat. Features AI-generated levels using Gemini.",
+  "requestFramePermissions": []
+}
